@@ -1,0 +1,12 @@
+
+.cardPessoa{
+    color: blueviolet;
+    background-color: aqua;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.cardPessoa p span{
+
+    color: brown;
+}
